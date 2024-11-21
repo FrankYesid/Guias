@@ -29,7 +29,7 @@ openpyxl==3.1.2
 xlrd==2.0.1
 
 # Jupyter notebook support
-notebook==7.0.2
+notebook==7.2.2
 
 # PyPlot for additional plotting capabilities
 pyplot==3.2.2
